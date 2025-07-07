@@ -1,6 +1,3 @@
-#Student Number: 10674100
-#Student Name: Rumeth Wellaweediyage
-
 print("Welcome to Nim Game !\n   In this game, you can play against CPU or another player.\n   In your turn you can take 1 or more sticks from a single row.")
 print("Let's get started!")
 
